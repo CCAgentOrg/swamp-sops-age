@@ -44,7 +44,7 @@ description: >
   - `sops` CLI (https://github.com/mozilla/sops)
   - `age` CLI (https://github.com/FiloSottile/age)
 
-repository: 'https://github.com/CashlessConsumer/swamp-sops-age'
+repository: 'https://github.com/CCAgentOrg/swamp-sops-age'
 models: []
 workflows: []
 vaults:
